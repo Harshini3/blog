@@ -1,0 +1,50 @@
+{
+    "data" : [
+        {
+            "id": 1,
+           
+            "blogTitle" : "Diet to boost your immune",
+            "slug": "diet",
+            "postedOn": "June 01, 2020",
+            "author": "Harshini",
+            "blogImage": "1.jpg",
+            "blogText":  "Many products on store shelves claim to boost or support immunity. But the concept of boosting immunity actually makes little sense scientifically. In fact, boosting the number of cells in your body — immune cells or others — is not necessarily a good thing. For example, athletes who engage in blood doping — pumping blood into their systems to boost their number of blood cells and enhance their performance — run the risk of strokes.Attempting to boost the cells of your immune system is especially complicated because there are so many different kinds of cells in the immune system that respond to so many different microbes in so many ways. Which cells should you boost, and to what number? So far, scientists do not know the answer. What is known is that the body is continually generating immune cells. Certainly, it produces many more lymphocytes than it can possibly use. The extra cells remove themselves through a natural process of cell death called apoptosis — some before they see any action, some after the battle is won. No one knows how many cells or what the best mix of cells the immune system needs to function at its optimum level"
+        },
+        {
+            "id" : 2,
+            "blogTitle": "Exercise during lockdown",
+            "slug": "exercise",
+            "postedOn": "May 03, 2020",
+            "author": "Dr.Anandh",
+            "blogImage": "2.png",
+            "blogText": "It’s a good idea to start with basic bodyweight exercises and gradually add progressions and increase the intensity. This way, the difficulty levels are increased slowly which helps you break a sweat and strengthen your muscles while also avoiding injuries. You can add a mix of push-ups (regular and advanced), circuit training (a series of exercises in rapid succession with little or no breaks in between) and more.Home workouts can be categorised into 3 main groups: Upper Body, Lower Body, and Core. Read on for a step-by-step explainer on each focus area and how to exercise it."
+        },
+        {
+            "id": 3,
+            "blogTitle": "Precaution of COVID19",
+            "slug": "beauti-lies-within-special",
+            "postedOn": "May 02, 2020",
+            "author": "Hasina Shaikh",
+            "blogImage": "3.png",
+            "blogText": "Stay aware of the latest information on the COVID-19 outbreak, available on the WHO website and through your national and local public health authority. Most countries around the world have seen cases of COVID-19 and many are experiencing outbreaks. Authorities in China and some other countries have succeeded in slowing their outbreaks. However, the situation is unpredictable so check regularly for the latest news."
+        },
+        {
+            "id": 4,
+            "blogTitle": "Lockdown mental health",
+            "slug": "sliding-my-way-to-life",
+            "postedOn": "Jan 02, 2020",
+            "author": "Krishnan",
+            "blogImage": "4.jpg",
+            "blogText": "Lockdown-Related Mental Stress in India:The researchers feel that sexual minorities are likely to experience unique and additional stressors related to their minority identity, which could combine with other stressors to impact psychological wellbeing,” as a result of the lockdown. This situation could also revive memories of old traumas in some people. The use of porn and the Internet to cope with the dullness and anxiety of these days could turn to addiction, leaving behind a permanent adverse impact even after the lockdown is over.However, the qualitative part of the study reveals that resilience and healthy coping strategies helped even high-risk individuals to stay positive, view the lockdown as a good time to ruminate on their individual and social identity, and take steps to improve their relationships with their families.It is clear that the study sample is extremely limited, non-inclusive, and non-representative of the Indian population at large. Rather, this was a group of well-educated young Indians, with almost half of the qualitative interviews, surprisingly, being with individuals from a sexual minority.The researchers conclude, “To our knowledge, this is the first study to look at the differential psychological impact of the lockdown across different social groups in India. Our study also highlighted a few positive aspects of the lockdown, underscoring the increase in social empathy and strengthened social bonds among Indian adults."
+        },
+        {
+            "id": 5,
+            "blogTitle": "WHO(WORLD HEALTH ORGANIZATION)",
+            "slug": "memories-from-last-summer",
+            "postedOn": "March 21, 2020",
+            "author": "Dr.Harsh Vardhan",
+            "blogImage": "5.png",
+            "blogText": "Van Kerkhove said the WHO would publish a scientific brief summarising the state of knowledge on modes of transmission of the virus in the coming days.A comprehensive package of interventions is required to be able to stop transmission,she said.This includes not only physical distancing, it includes the use of masks where appropriate in certain settings, specifically where you can't do physical distancing and especially for healthcare workers."
+        }
+    ]
+}
